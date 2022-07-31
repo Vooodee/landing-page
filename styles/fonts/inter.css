@@ -42,7 +42,7 @@
   font-family: "Inter";
   src: url("https://vooodee.github.io/landing-page/styles/fonts/inter/Inter-ExtraBold.eot");
   src: local("Inter Extra Bold"), local("Inter-ExtraBold"),
-    url("/styles/fonts/inter/Inter-ExtraBold.eot?#iefix")
+    url("https://vooodee.github.io/landing-page//styles/fonts/inter/Inter-ExtraBold.eot?#iefix")
       format("embedded-opentype"),
     url("https://vooodee.github.io/landing-page/styles/fonts/inter/Inter-ExtraBold.woff2") format("woff2"),
     url("https://vooodee.github.io/landing-page/styles/fonts/inter/Inter-ExtraBold.woff") format("woff"),
