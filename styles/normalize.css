@@ -1,5 +1,5 @@
-@import url("/styles/fonts/cabinet-grotesk.css");
-@import url("/styles/fonts/inter.css");
+@import url("styles/fonts/cabinet-grotesk.css");
+@import url("styles/fonts/inter.css");
 
 :root {
   --font-title: "Cabinet Grotesk";
