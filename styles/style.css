@@ -224,7 +224,7 @@ body {
 }
 .video__wrapper {
   padding: 0;
-  background-image: url("images/header__background.svg");
+  background-image: url("https://vooodee.github.io/landing-page/images/header__background.svg");
   background-repeat: no-repeat;
   background-size: contain;
 
@@ -414,10 +414,10 @@ body {
   height: 31px;
 }
 .info__items--pink .info__item::before {
-  background: url("icons/list-type--pink.svg") no-repeat;
+  background: url("https://vooodee.github.io/icons/list-type--pink.svg") no-repeat;
 }
 .info__items--blue .info__item::before {
-  background: url("icons/list-type--blue.svg") no-repeat;
+  background: url("https://vooodee.github.io/icons/list-type--blue.svg") no-repeat;
 }
 
 .info__images {
@@ -659,7 +659,7 @@ summary:before {
   top: 2px;
   right: 2px;
   color: transparent;
-  background: url("icons/arrow-up.svg") no-repeat 50% 50% / 25px 25px;
+  background: url("https://vooodee.github.io/icons/arrow-up.svg") no-repeat 50% 50% / 25px 25px;
   width: 25px;
   height: 25px;
   content: "";
@@ -840,7 +840,7 @@ summary:focus {
 
 /* Footer */
 .footer {
-  background-image: url("images/header__background.svg");
+  background-image: url("https://vooodee.github.io/images/header__background.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1323,7 +1323,7 @@ summary:focus {
   width: 1140px;
   overflow: hidden;
   z-index: 1;
-  background: url("images/image-video.svg") no-repeat center center;
+  background: url("https://vooodee.github.io/images/image-video.svg") no-repeat center center;
   background-size: cover;
   border-radius: 15px;
 }
