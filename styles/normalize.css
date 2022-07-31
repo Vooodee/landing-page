@@ -1,0 +1,30 @@
+@import url("/styles/fonts/cabinet-grotesk.css");
+@import url("/styles/fonts/inter.css");
+
+:root {
+  --font-title: "Cabinet Grotesk";
+  --font-text: "Inter";
+}
+body {
+  font-size: 16px;
+  font-family: var(--font-text);
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title {
+  font-family: var(--font-title);
+}
