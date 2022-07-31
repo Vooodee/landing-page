@@ -27,6 +27,9 @@ body {
 .visible{
   opacity:1;
 }
+.main {
+    overflow: hidden;
+}
 /* Button */
 .btn {
   display: inline-block;
