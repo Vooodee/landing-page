@@ -2,10 +2,10 @@
 
 @font-face {
   font-family: "Cabinet Grotesk Variable";
-  src: url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.eot");
-  src: url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.woff2") format("woff2"),
-    url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.woff") format("woff"),
-    url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.ttf") format("truetype");
+  src: url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.eot");
+  src: url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.woff2") format("woff2"),
+    url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.woff") format("woff"),
+    url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Variable.ttf") format("truetype");
   font-weight: 100 900;
   font-display: swap;
   font-style: normal;
@@ -13,10 +13,10 @@
 
 @font-face {
   font-family: "Cabinet Grotesk";
-  src: url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.eot");
-  src: url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.woff2") format("woff2"),
-    url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.woff") format("woff"),
-    url("styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.ttf") format("truetype");
+  src: url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.eot");
+  src: url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.woff2") format("woff2"),
+    url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.woff") format("woff"),
+    url("https://vooodee.github.io/landing-page/styles/fonts/cabinet-grotesk/CabinetGrotesk-Bold.ttf") format("truetype");
   font-weight: 700;
   font-display: swap;
   font-style: normal;
